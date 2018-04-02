@@ -15,6 +15,7 @@ div#image:before {
   justify-content: center;
      /* background-color: yellow; */ 
     height: 338px;
+    max-width: 100%;
 
 
      
